@@ -1,0 +1,74 @@
+{
+    "name": "meme.fun",
+    "start_url": ".",
+    "id": "meme-fun-app",
+    "display": "standalone",
+    "background_color": "#060606",
+    "orientation": "portrait",
+    "description": "Meme all day long, all night long. never stop memeing",
+    "categories": ["crypto", "photo", "social", "finance"],
+    "screenshots": [
+        {
+            "src": "/images/screenshot0.jpg",
+            "type": "image/jpeg",
+            "sizes": "1080x2225"
+        },
+        {
+            "src": "/images/screenshot1.jpg",
+            "type": "image/jpeg",
+            "sizes": "1080x2225"
+        },
+        {
+            "src": "/images/screenshot2.jpg",
+            "type": "image/jpeg",
+            "sizes": "1170x2531"
+        },
+        {
+            "src": "/images/screenshot3.jpg",
+            "type": "image/jpeg",
+            "sizes": "1080x2225"
+        },
+        {
+            "src": "/images/screenshotWide.jpg",
+            "type": "image/jpeg",
+            "sizes": "1280x768",
+            "form_factor": "wide"
+        }
+    ],
+    "icons": [
+        {
+            "src": "/images/logo192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/images/logo384.png",
+            "type": "image/png",
+            "sizes": "384x384"
+        },
+
+        {
+            "src": "/images/logo512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+
+        {
+            "src": "/images/logo1024.png",
+            "type": "image/png",
+            "sizes": "1024x1024"
+        },
+        {
+            "src": "/images/logomaskable.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/images/logomaskable-1024.png",
+            "type": "image/png",
+            "sizes": "1024x1024",
+            "purpose": "maskable"
+        }
+    ]
+}
